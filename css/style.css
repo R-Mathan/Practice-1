@@ -116,7 +116,7 @@ body{
     background-color: #fff;
     padding: 38px 0px;
     border-radius: 3px;
-    box-shadow: 0px;
+    box-shadow: 0px 0px 5px -3px #34d1bf;
 }
 #banner .bnr-container .banner-right h3{
     text-align: center;
